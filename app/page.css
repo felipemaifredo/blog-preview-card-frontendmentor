@@ -1,0 +1,7 @@
+main {
+  min-height: 100vh;
+  width: 100vw;
+  background-color: #f5d04e;
+  display: grid;
+  place-items: center;
+}
